@@ -6,3 +6,7 @@
 pubspec.lock
 
 build/
+flutter_export_environment.sh
+*.iml
+melos_open_file_example.iml
+melos_open_file.iml
